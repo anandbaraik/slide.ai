@@ -110,7 +110,7 @@ Use Cursor or Claude Code on a local repo: Sliced.ai is too large and integratio
 
 - **AI IDE:** Cursor (feature work) + Claude Code (repo-wide refactors, tests)
 - **Frontend + backend:** Next.js (App Router) + TypeScript
-- **Styling (app UI):** Tailwind CSS + a headless component library
+- **Styling (app UI):** Tailwind CSS + a headless component library + ShadCn 
 - **Editor state:** Zustand with undo/redo history
 - **Drag and drop:** dnd-kit for slide reordering
 - **Validation:** Zod for AI output, forms and API input
